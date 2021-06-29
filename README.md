@@ -2,7 +2,7 @@
 
 **Password Generator** consiste em um gerador de senhas, com opções de comprimento, letras minúsculas, letras maiúsculas, números e símbolos. Foi desenvolvido no curso <a href="https://www.udemy.com/share/103Pv2AEcYdFxQQXUH">50 Projects In 50 Days</a>.
 
-Possui uma incrementação feita por mim para randomizar ainda mais a senha, deixando de seguir a ordem dos marcadores.
+Possui incrementações feitas por mim, como randomizar ainda mais a senha, deixando de seguir a ordem dos marcadores e um modal para as mensagens (ao copiar a senha, deixar de selecionar os tipos, etc).
 
 # ✈️ Tecnologias
 
