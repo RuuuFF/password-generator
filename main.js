@@ -26,7 +26,7 @@ function generatePassword(upper, lower, number, symbol, length) {
   const typesArray = [{upper}, {lower}, {number}, {symbol}].filter(item => Object.values(item)[0])
 
   if (typesCount === 0 ) {
-    showModal('Can\'t generate password without types')
+    showModal('Can\'t generate password without types.')
     return ''
   }
 
@@ -71,7 +71,7 @@ clipboardEl.addEventListener('click', () => {
   const password = resultEl.innerText
 
   if (!password) {
-    showModal("Generate a password before copy")
+    showModal("Generate a password before copy.")
     return
   }
 
